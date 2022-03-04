@@ -21,6 +21,9 @@
 # Tricks
 
 * Use https://github.com/alexpdp7/plankalkul/ as a calculator.
+* USB Audio works, so you can use wireless USB audio headsets.
+  Those didn't work in my previous Samsung A02s.
+  Wireless USB audio headset often work better than Bluetooth headsets.
 
 # Ideas
 
