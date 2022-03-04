@@ -7,6 +7,7 @@
   * Google Keep
 * Multipoint Bluetooth seems to be problematic, at least when headphones are also connected to an Avantree DG80.
   * https://www.reddit.com/r/unihertztitanpocket/comments/qmnpm1/bluetooth_connections/
+  * https://www.reddit.com/r/unihertz/comments/s1k8kd/titan_pocket_bluetooth_problems/
 
 ## Apps
 
