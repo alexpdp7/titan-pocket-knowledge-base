@@ -16,6 +16,10 @@
 
 * Interface layout does not cope well with square screen.
 
+# Tricks
+
+* Use https://github.com/alexpdp7/plankalkul/ as a calculator.
+
 # Ideas
 
 * Remap back or square buttons to get a magic key.
