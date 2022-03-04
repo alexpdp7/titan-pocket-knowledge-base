@@ -5,6 +5,7 @@
   * Contacts
   * Google Drive
   * Google Keep
+* Multipoint Bluetooth seems to be problematic, at least when headphones are also connected to an Avantree DG80.
 
 ## Apps
 
