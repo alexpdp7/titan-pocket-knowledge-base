@@ -15,6 +15,7 @@
 ### Lichess
 
 * Interface layout does not cope well with square screen.
+  https://github.com/lichess-org/lichobile/issues/1869
 
 # Tricks
 
