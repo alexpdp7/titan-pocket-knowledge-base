@@ -29,6 +29,10 @@
 
 * Remap back or square buttons to get a magic key.
 * Different fn remapping in different apps (e.g. tab and ctrl only on Termux)
-* Find a better way to organize apps on home screen.
-  I dump apps I rarely open in two folders (personal and work), but it does not work great.
-* Find a way to create shortcuts in Firefox (close tab, go to URL bar, switch tabs).
+* Research a better launcher
+  * Find a better way to organize apps on home screen.
+    I dump apps I rarely open in two folders (personal and work), but it does not work great.
+* Find a way to create keyboard shortcuts in Firefox (close tab, go to URL bar, switch tabs).
+* Research better software keyboards to use
+  * Swiftkey (apparently has good physical keyboard support)
+  * BlackBerry Keyboard
