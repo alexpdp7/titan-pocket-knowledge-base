@@ -21,6 +21,7 @@
 * USB Audio works, so you can use wireless USB audio headsets.
   Those didn't work in my previous Samsung A02s.
   Wireless USB audio headset often work better than Bluetooth headsets.
+* Network settings includes an option to show bandwidth usage on the status bar.
 
 # Launchers
 
