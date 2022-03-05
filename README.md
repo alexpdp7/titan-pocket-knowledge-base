@@ -1,10 +1,5 @@
 # Known issues
 
-* Some application icons keep jumping out of their folders into the home screens.
-  This includes:
-  * Contacts
-  * Google Drive
-  * Google Keep
 * Multipoint Bluetooth seems to be problematic, at least when headphones are also connected to an Avantree DG80.
   * https://www.reddit.com/r/unihertztitanpocket/comments/qmnpm1/bluetooth_connections/
   * https://www.reddit.com/r/unihertz/comments/s1k8kd/titan_pocket_bluetooth_problems/
@@ -22,12 +17,24 @@
 
 # Tricks
 
-* Long press on home, settings, uncheck menu mode switch.
-  This enables the app drawer, so you don't need all apps on home.
 * Use https://github.com/alexpdp7/plankalkul/ as a calculator.
 * USB Audio works, so you can use wireless USB audio headsets.
   Those didn't work in my previous Samsung A02s.
   Wireless USB audio headset often work better than Bluetooth headsets.
+
+# Launchers
+
+## Default launcher
+
+* Long press on home, settings, uncheck menu mode switch.
+  This enables the app drawer, so you don't need all apps on home.
+  * This prevents an issue where some apps like Contacts, Google Drive, and Google Keep jump out of their folders to the homescreen.
+
+# Remote control
+
+* The built-in application can be accidentally uninstalled.
+  https://play.google.com/store/apps/details?id=com.tiqiaa.remote seems to be the same app, although Play Store notes it has ads and in-app purchases
+  * https://www.reddit.com/r/unihertztitanpocket/comments/t6vu72/is_this_the_bundled_remote_control_app/?
 
 # Ideas
 
@@ -40,9 +47,6 @@
   * Different fn remapping in different apps (e.g. tab and ctrl only on Termux)
   * https://www.reddit.com/r/unihertztitanpocket/comments/q44rb6/another_more_use_for_your_keyboard_add_shortcuts/
 * Research a better launcher
-  * Ideas
-    * Find a better way to organize apps on home screen.
-      I dump apps I rarely open in two folders (personal and work), but it does not work great.
   * Candidates
     * Microsoft
     * https://play.google.com/store/apps/details?id=ohi.andre.consolelauncher
@@ -62,6 +66,5 @@
     * https://www.reddit.com/r/unihertztitanpocket/comments/sjsm7d/physical_keyboard_only_operation/
 * Google Cam
   * https://www.reddit.com/r/unihertztitanpocket/comments/qakz68/gcam_google_camera_for_titan_pocket/
-* Find remote app
-  * Apparently the phone comes with one? https://www.reddit.com/r/unihertztitanpocket/comments/r8m070/irblaster_software/
+* Find better remote apps
 * Research rooting benefits
