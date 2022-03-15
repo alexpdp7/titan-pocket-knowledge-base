@@ -55,6 +55,7 @@
     * https://play.google.com/store/apps/details?id=bitpit.launcher&hl=en&gl=US
     * https://f-droid.org/en/packages/fr.neamar.kiss/
     * BlackBerry
+    * https://niagaralauncher.app/
     * https://www.reddit.com/r/unihertztitanpocket/comments/qzxsoh/does_anyone_use_an_alternative_launcher/
 * Find a way to create keyboard shortcuts in Firefox (close tab, go to URL bar, switch tabs).
   * https://www.reddit.com/r/unihertztitanpocket/comments/q20x1i/if_you_use_firefox_6811_get_the_more_out_of_your/
