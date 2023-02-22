@@ -68,5 +68,6 @@
     * https://www.reddit.com/r/unihertztitanpocket/comments/sjsm7d/physical_keyboard_only_operation/
 * Google Cam
   * https://www.reddit.com/r/unihertztitanpocket/comments/qakz68/gcam_google_camera_for_titan_pocket/
+  * https://www.reddit.com/r/unihertz/comments/11809uy/installed_gcam_go_on_unihertz_slim_and_camera_is/
 * Find better remote apps
 * Research rooting benefits
