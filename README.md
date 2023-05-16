@@ -61,6 +61,8 @@
   * https://www.reddit.com/r/unihertztitanpocket/comments/q20x1i/if_you_use_firefox_6811_get_the_more_out_of_your/
 * Research better software keyboards to use
   * Candidates
+    * https://github.com/SinuXVR/pocket-board
+      * https://www.reddit.com/r/unihertztitanpocket/comments/13icqbf/really_nice_virtual_keyboard_replacement_made/
     * Swiftkey (apparently has good physical keyboard support)
     * BlackBerry Keyboard
       * https://www.reddit.com/r/unihertztitanpocket/comments/qfan3d/use_the_blackberry_keyboard_app/
