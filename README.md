@@ -63,6 +63,7 @@
   * Candidates
     * https://github.com/SinuXVR/pocket-board
       * https://www.reddit.com/r/unihertztitanpocket/comments/13icqbf/really_nice_virtual_keyboard_replacement_made/
+      * [Spanish support](https://github.com/SinuXVR/pocket-board/pull/9)
     * Swiftkey (apparently has good physical keyboard support)
     * BlackBerry Keyboard
       * https://www.reddit.com/r/unihertztitanpocket/comments/qfan3d/use_the_blackberry_keyboard_app/
